@@ -40,7 +40,7 @@ pip install opencv-python numpy easyocr
 ```
 
 ## 4. Estructura del Repositorio
-
+```
 proyecto_ocr/
 │
 ├── README.md            <-- Este archivo de documentación
@@ -49,6 +49,7 @@ proyecto_ocr/
     ├── utils.py         <-- Funciones de preprocesamiento (OpenCV)
     ├── ocr_pipeline.py  <-- Lógica del motor OCR (EasyOCR)
     └── inferencia.py    <-- Script principal para ejecución por consola
+```
 
 ## 5. Instrucciones de Uso
 
